@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3.Editar Tipos de Involucrados</name>
+   <tag></tag>
+   <comment>El numero de Elementos es: &quot; + listOptions.size()
+El numero de elementos es: &quot; + listActions.size()</comment>
+   <testCaseGuid>eea25b5c-5f7b-488d-8134-9f38e8386516</testCaseGuid>
+</TestCaseEntity>

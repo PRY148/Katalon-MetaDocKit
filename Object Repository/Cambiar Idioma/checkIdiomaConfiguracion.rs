@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkIdiomaConfiguracion</name>
+   <tag></tag>
+   <elementGuidId>f0a2b384-cb91-4aa0-bebb-fc23e2f11e41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-radio-2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mat-radio-5&quot;)/label[@class=&quot;mat-radio-label&quot;]/div[@class=&quot;mat-radio-container&quot;]/div[@class=&quot;mat-radio-outer-circle&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-radio-outer-circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-radio-5&quot;)/label[@class=&quot;mat-radio-label&quot;]/div[@class=&quot;mat-radio-container&quot;]/div[@class=&quot;mat-radio-outer-circle&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

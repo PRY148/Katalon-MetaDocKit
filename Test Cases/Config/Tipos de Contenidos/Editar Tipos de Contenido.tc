@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Editar Tipos de Contenido</name>
+   <tag></tag>
+   <comment>Number of elements: &quot; + elementos.size()
+Numero de Elementos: &quot; + elementosDos.getSize()</comment>
+   <testCaseGuid>6022e48b-35d1-44ba-88be-f3aec8e53b9d</testCaseGuid>
+</TestCaseEntity>

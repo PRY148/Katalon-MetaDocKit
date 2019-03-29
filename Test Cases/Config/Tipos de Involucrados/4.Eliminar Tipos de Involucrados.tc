@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4.Eliminar Tipos de Involucrados</name>
+   <tag></tag>
+   <comment>El numero de Elementos es: &quot; + listOptions.size()
+El numero de elementos es: &quot; + listActions.size()
+Numero de Elementos: &quot; + deleteElements.size()</comment>
+   <testCaseGuid>0ec83d42-f126-4b92-9306-10436d104396</testCaseGuid>
+</TestCaseEntity>

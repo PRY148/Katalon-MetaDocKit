@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Katalon-MetaDocKit</name>
+   <tag></tag>
+   <UUID>001df4c6-35e1-415f-a1a8-c7cbd2455a12</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
